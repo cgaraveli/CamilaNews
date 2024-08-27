@@ -1,0 +1,80 @@
+body {
+	background: pink;
+	text-align: center;
+}
+
+h1 {
+	font-family: "Arial";
+	background: #cf99d4;
+	color: purple;
+	text-align: center;
+	width: 300px;
+	margin: 0 auto;
+}
+
+h3 {
+	font-family: "Arial";
+	color: gray;
+	text-align: center;
+}
+
+a {
+	background: #ff71b5;
+	text-align: center;
+	padding: 5px 100px;
+	border-radius:10px;
+	border: 2px solid white
+}
+a:hover {
+	background: #e840aa 
+}
+
+.dev-texto {
+	width: 500px;
+	background: #efa2d6;
+	color: black;
+	text-align: center;
+	padding: 5px;
+	margin: 0 auto;
+}
+
+hr {
+	width: 600px;
+	background: #f769ac;
+	height: 10px;
+	border: 0px;
+}
+
+
+.titulo{
+	text-align: center;
+}
+
+.paragrafo{
+	text-align: justify;
+	width: 1000px;
+	margin: 20 auto;
+}
+
+.image{
+	text-align: center;
+	width: 350px;
+	display: block;
+	margin: 0 auto;
+}
+
+.imagem{
+	width: 300px;
+	display: block;
+	margin: 0 auto;
+}
+
+video{
+		display: block;
+		margin: 0 auto;
+}
+
+audio{
+	display: block;
+	margin: 0 auto;
+}
